@@ -29,5 +29,6 @@ public class Punto1 {
             }
             System.out.println("La suma es" + suma);
         }
+        scanner.close();
     }
     }

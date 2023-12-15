@@ -23,7 +23,7 @@ public class Punto2 {
             System.out.println("Su contraseña tiene " + contra.length() + "caracteres");
             System.out.println("Su contraseña debe ser mas larga, mínimo 8 caracteres");
         }
-        
+        scanner.close();
     }
     
 }
